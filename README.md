@@ -1,7 +1,7 @@
 # Hi there, I'm Dilsara Sandun 👋
 
 ### 👨‍💻 About Me
-I am a passionate software developer and security enthusiast, constantly pushing the boundaries of what's possible with code. I love building secure, beautiful, and highly functional applications.
+I am a passionate cybersecurity and  secure software enthusiast, constantly pushing the boundaries of what's possible with code. I love building secure, beautiful, and highly functional applications.
 
 - 🔭 I recently built **Cooks Mart** — A highly secure, professional food blogging platform!
 - 🌱 I’m currently expanding my knowledge in deeply integrated Web Security, Advanced Architecture, and Modern DevOps.
