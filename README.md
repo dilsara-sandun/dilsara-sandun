@@ -6,7 +6,6 @@ I am an **MSc Cybersecurity candidate** and a **BSc (Hons) Computer Networking &
 * 🛠️ Managed and maintained a **500-seat enterprise estate**, consistently ensuring a **99.8% uptime**.
 * 🐧 Expert in **Windows and Linux server administration**, patching, performance monitoring, and hardware troubleshooting.
 * 🛡️ Active **Threat Hunter and CTF practitioner** on platforms like TryHackMe, Hack The Box (HTB), and PortSwigger Web Security Academy.
-* 📝 Currently holding a **UK Graduate Route Visa** with immediate, unrestricted right to work.
 
 ---
 
@@ -48,10 +47,13 @@ I am an **MSc Cybersecurity candidate** and a **BSc (Hons) Computer Networking &
 
 ---
 
-## 📜 Certifications
-* 🎓 **MSc Cybersecurity** (In Progress)
+## 📜 Certifications & Education
+* 🎓 **MSc Cybersecurity** 
 * 🎓 **BSc (Hons) Computer Networking & Cyber Security**
-* 🏆 *CompTIA Pentest+,CCSEH,CNPen,RHCSA,CPPS,CAISR,CCNA]*
+* 🏆 **CompTIA PenTest+**
+* 🛡️ **RHCSA** (Red Hat Certified System Administrator)
+* 🌐 **CCNA** (Cisco Certified Network Associate)
+* ⚔️ **CCSEH | CNPen | CPPS | CAISR**
 
 ---
 
@@ -63,5 +65,5 @@ I am an **MSc Cybersecurity candidate** and a **BSc (Hons) Computer Networking &
 ---
 
 ## 🌐 Connect with me
-[![LinkedIn](https://shields.io)](www.linkedin.com/in/dilshara-sandun)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 [![GitHub](https://shields.io)](https://github.com/dilsara-sandun)
